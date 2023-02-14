@@ -1,11 +1,10 @@
 import React from 'react'
 
-const Testimonials = () => {
-  return (
-    <div>
-      Testimonials
-    </div>
-  )
-}
+const Testimonials = () => (
+  <section>
+
+    
+  </section>
+)
 
 export default Testimonials
